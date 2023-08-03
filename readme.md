@@ -4,7 +4,7 @@
 
  
 ### Setting up a github page for Meso_Database project and development environment (Jinli) (1 day)
-### [cBioportal database architecture overview](cBioportal_Architecture.md)
+### [cBioportal database architecture overview](/docs/cBioportal_Architecture.md)
 (Jinli, 5 days)
 ### Existing local mysql database review (Jinli/Daniel/Hongji, 2-3 days)
 ### Database Development(Jinli/Hongji’s group/Dean’s group) (50 days)
