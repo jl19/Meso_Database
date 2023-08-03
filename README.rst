@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Setting up Meso_Database project and development environment
+============================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+**cBioportal Overview**
+**Existing mysql database review**
+**Database Development**
