@@ -1,8 +1,8 @@
 # cbpManager
 ### Generate, manage, and edit data and metadata files suitable for the import in cBioPortal for Cancer Genomics
 
-
-![cbpManager](https://www.bioconductor.org/packages/release/bioc/vignettes/cbpManager/inst/doc/intro.html)
+For how cbpManager works, please see the cbpManager documents
+[cbpManager](https://www.bioconductor.org/packages/release/bioc/vignettes/cbpManager/inst/doc/intro.html)
 
 # To Explore cbpManager installed using Docker 
 
