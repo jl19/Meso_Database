@@ -20,8 +20,9 @@ This table stores information related to prescreening activities at MiST (Medica
 | ...         | ...               | ...             | ...              |
 
 ## Author and Date:
-- Created by: [Your Name]
-- Date: [Current Date]
+- Created by: Jinli Luo
+- Date: 10/12/2023
+  
 
 ## Dependencies:
 - The MiST_Patient_ID column is linked to the Stable_ID in the patient table.
